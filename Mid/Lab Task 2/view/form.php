@@ -3,7 +3,7 @@
 
 <head>
     <title>Bank Management System</title>
-    <link rel=stylesheet href="/Mid/Lab Task 2/style.css">
+    <link rel=stylesheet href="..\Css\Style.css">
 </head>
 
 <body>
@@ -55,7 +55,7 @@
             </tr>
             <tr>
                 <td>Mobile Number</td>
-                <td><input type="number"></td>
+                <td><input type="text"></td>
             </tr>
             <tr>
                 <td>Email Address:</td>
@@ -75,7 +75,7 @@
 
             <tr>
                 <td>National ID (NID):</td>
-                <td><input type="Number"></td>
+                <td><input type="text"></td>
             </tr>
 
             <tr>
@@ -107,43 +107,6 @@
 </body>
 
 
-    <style>
-        h2 {
-            color: #013266;
-        }
 
-        h3 {
-            color: #013266;
-        }
-
-        body {
-            background-color: #f0f8ff;
-        }
-
-        table {
-            background-color: white;
-            border: 1px solid;
-            padding: 2px;
-        }
-
-        .div2 {
-            width: 200px;
-            height: 65px;
-            overflow: auto;
-            outline: 1px solid red;
-            margin-top: 5px;  
-
-        }
-        input[type="Submit"],input[type="Reset"]
-        {
-            background-color:blue;
-            color: white;
-            border: none;
-            margin-left: 20px;
-            margin-bottom: auto;
-            margin-top: auto;
-            padding: 5px;
-        }
-    </style>
 
 </html>
