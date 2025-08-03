@@ -1,52 +1,63 @@
-div{
-    background-color:whitesmoke;
-    width:35%;
+div {
+    background-color: whitesmoke;
+    width: 35%;
     margin-left: auto;
     margin-right: auto;
     margin-top: 5px;
     margin-bottom: auto;
     padding: auto;
 }
-#heading{
+
+#heading {
     color: red;
     margin-left: 20px;
     padding-top: 15px;
 }
-#label1{
+
+#label1 {
     color: red;
     margin-left: 5px;
 }
-form{
+
+form {
     margin-left: 20px;
     margin-top: 10px;
-    
+
 }
-input[type="text"],input[type="email"],input[type="text"],input[type="password"],input[type="text"]{
-width:94%;
+
+input[type="text"],
+input[type="email"],
+input[type="text"],
+input[type="password"],
+input[type="text"] {
+    width: 94%;
     margin-bottom: 10px;
-        text-align: left;
-        padding: 5px 5px;
-border: 1px solid #ccc;
+    text-align: left;
+    padding: 5px 5px;
+    border: 1px solid #ccc;
     border-radius: 4px;
 
 }
-select{
-    width:96%;
-        margin-bottom: 10px;
-        text-align: left;
-        padding: 5px 5px;
-        border: 1px solid #ccc;
-        border-radius: 4px;
+
+select {
+    width: 96%;
+    margin-bottom: 10px;
+    text-align: left;
+    padding: 5px 5px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
 }
-label{
+
+label {
     font-weight: bold;
 }
-textarea{
+
+textarea {
     border: 1px solid #ccc;
     border-radius: 4px;
     margin-bottom: 15px;
 }
-button{
+
+button {
     padding: 10px 20px;
 }
-
